@@ -1,1 +1,2 @@
 *.vcf.gz filter=lfs diff=lfs merge=lfs -text
+Ha412_Jan2017.vcf.npz filter=lfs diff=lfs merge=lfs -text
